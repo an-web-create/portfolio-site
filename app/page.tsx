@@ -99,6 +99,12 @@ export default function Home() {
             </p>
           </div>
           <div className="work-card">
+            <h3>アプリ制作</h3>
+            <p>
+              ※Javaなどを使用した制作物を掲載予定です。
+            </p>
+          </div>
+          <div className="work-card">
             <h3>データ管理表</h3>
             <p>
               ※表計算ソフトとマクロを使用した制作物を掲載予定です。
