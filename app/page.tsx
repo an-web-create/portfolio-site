@@ -81,6 +81,10 @@ export default function Home() {
             <h3>AI活用</h3>
             <p>ChatGPT / Gemini / Siri / SUNO AI 等</p>
           </div>
+          <div className="skill-card">
+            <h3>その他実務使用経験のあるソフト・システム</h3>
+            <p>弥生会計 / 販売王 / ALSOKシステム / 金融機関システム / PayPayシステム 等</p>
+          </div>
 
          
         </div>
@@ -107,8 +111,15 @@ export default function Home() {
           <div className="work-card">
             <h3>データ管理表</h3>
             <p>
-              ※表計算ソフトとマクロを使用した制作物を掲載予定です。
-            </p>
+              <a
+               href="https://docs.google.com/spreadsheets/d/12LpYTUoG--nrxIEr8Mv0aQUfz6XKzyX91QA6rWz3FSc/edit?usp=sharing"
+               target="_blank"
+               rel="noopener noreferrer"
+               className="text-link"
+               >
+              ●出退勤管理システム
+               </a><br />
+               使用ツール：Google スプレッドシート（マクロ有）<br />
           </div>
 
           <div className="work-card">
@@ -139,6 +150,9 @@ export default function Home() {
       <section id="profile">
         <p className="section-label">PROFILE</p>
         <p>
+          幼少期〜学生時代<br />
+          　実家の自営業にて事務作業の補助作業などを行う
+
           2020年4月〜2024年3月<br />
           　大学にて情報学を専攻　AIの開発や活用について学習<br />
 
@@ -156,6 +170,9 @@ export default function Home() {
           2024年6月〜現在<br />
           　ハーレーダビットソンやカワサキバイクなどの正規二輪ディーラーを運営する企業の総務部にて<br />
           　経理・出退勤管理・有給管理・書類作成・コーポレートサイト作成・データ収集など多岐にわたって担当<br />
+          <br /><br />
+          趣味：歌唱　　宇宙工学や生物学、AIなどの最新研究に関する学術記事を読むこと
+
 　　　　　　
         </p>
       </section>
