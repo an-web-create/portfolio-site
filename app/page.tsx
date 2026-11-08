@@ -120,6 +120,7 @@ export default function Home() {
               ●出退勤管理システム
                </a><br />
                使用ツール：Google スプレッドシート（マクロ有）<br />
+               </p>
           </div>
 
           <div className="work-card">
