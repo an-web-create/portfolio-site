@@ -143,7 +143,7 @@ export default function Home() {
             <h3>動画制作</h3>
             <p>
               制作実例<br />
-              下記、社内の設備やメーカーからのイメージなどの指定がある中で、音源や素材の著作権の扱いにも注意し、製作を進めました。
+              下記、社内の設備やメーカーからのイメージなどの指定がある中で、音源や素材の著作権の扱いにも注意し、製作を進めました。<br />
               <a
                href="https://www.instagram.com/reel/DQauKgwiNCd/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
                target="_blank"
