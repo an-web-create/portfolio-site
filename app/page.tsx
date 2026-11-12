@@ -135,14 +135,35 @@ export default function Home() {
               ●決算事確認事項マニュアル
                </a><br />
                使用ツール：Google ドキュメント<br />
-
+               
             </p>
           </div>
 
           <div className="work-card">
             <h3>動画制作</h3>
             <p>
-              ※動画編集ソフトを使用した動画を掲載予定です。
+              制作実例<br />
+              下記、社内の設備やメーカーからのイメージなどの指定がある中で、音源や素材の著作権の扱いにも注意し、製作を進めました。
+              <a
+               href="https://www.instagram.com/reel/DQauKgwiNCd/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+               target="_blank"
+               rel="noopener noreferrer"
+               className="text-link"
+               >
+              ●新車紹介動画（Instagram）
+               </a><br />
+               <a
+               href="https://www.instagram.com/reel/DMWp8orhHPH/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+               target="_blank"
+               rel="noopener noreferrer"
+               className="text-link"
+               >
+              ●Tシャツフェア紹介動画（Instagram）
+               </a><br />
+               使用ツール：CupCutなど<br />
+              
+              
+              
             </p>
           </div>
         </div>
